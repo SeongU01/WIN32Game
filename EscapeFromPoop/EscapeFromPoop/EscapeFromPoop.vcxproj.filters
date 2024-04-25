@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\GameManger">
+      <UniqueIdentifier>{1eaf8c57-5032-44ec-b0ee-9bb530b4bacc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Input">
+      <UniqueIdentifier>{53e47c3e-e551-4913-96f3-1fc6de7c00f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Time">
+      <UniqueIdentifier>{6192deb7-9ecb-47f0-b589-54b824c99699}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Render">
+      <UniqueIdentifier>{7b9b94f5-a5e1-455b-b88d-0e1e9e71aca9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\bitmap">
+      <UniqueIdentifier>{95906e15-98a6-4d9f-bbd9-09508195d88e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object">
+      <UniqueIdentifier>{035cedcd-f856-49ae-b467-b564c092a9eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ColliderManager">
+      <UniqueIdentifier>{92d54669-16c2-4489-bf26-7777d1db986f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ResourceManager">
+      <UniqueIdentifier>{f2eee411-3195-463f-91db-34f22570063e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Scene">
+      <UniqueIdentifier>{de6d7b0a-17fd-4cef-86d6-a691aac220b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object\ObjectManager">
+      <UniqueIdentifier>{2c3d4b81-5b62-4a50-be3e-811a6f24b629}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="WinApp.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="InputSystem.h">
+      <Filter>소스 파일\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeSystem.h">
+      <Filter>소스 파일\Time</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderSystem.h">
+      <Filter>소스 파일\Render</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectManager.h">
+      <Filter>소스 파일\Object\ObjectManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>소스 파일\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="ColliderManager.h">
+      <Filter>소스 파일\ColliderManager</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>소스 파일\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.h">
+      <Filter>소스 파일\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>소스 파일\GameManger</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>소스 파일\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>소스 파일\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayScene.h">
+      <Filter>소스 파일\Scene</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>소스 파일\GameManger</Filter>
+    </ClCompile>
+    <ClCompile Include="EscapeFromPoop.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="InputSystem.cpp">
+      <Filter>소스 파일\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeSystem.cpp">
+      <Filter>소스 파일\Time</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderSystem.cpp">
+      <Filter>소스 파일\Render</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectManager.cpp">
+      <Filter>소스 파일\Object\ObjectManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>소스 파일\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="ColliderManager.cpp">
+      <Filter>소스 파일\ColliderManager</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>소스 파일\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceManager.cpp">
+      <Filter>소스 파일\ResourceManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>소스 파일\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>소스 파일\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayScene.cpp">
+      <Filter>소스 파일\Scene</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="bitmap\playerWait1.bmp">
+      <Filter>리소스 파일\bitmap</Filter>
+    </Image>
+    <Image Include="bitmap\playerWait2.bmp">
+      <Filter>리소스 파일\bitmap</Filter>
+    </Image>
+    <Image Include="bitmap\playerWait3.bmp">
+      <Filter>리소스 파일\bitmap</Filter>
+    </Image>
+    <Image Include="bitmap\playerRunL1.bmp">
+      <Filter>리소스 파일\bitmap</Filter>
+    </Image>
+    <Image Include="bitmap\playerRunL2.bmp">
+      <Filter>리소스 파일\bitmap</Filter>
+    </Image>
+    <Image Include="bitmap\playerRunL3.bmp">
+      <Filter>리소스 파일\bitmap</Filter>
+    </Image>
+    <Image Include="bitmap\BG.bmp">
+      <Filter>리소스 파일\bitmap</Filter>
+    </Image>
+    <Image Include="bitmap\BG2.bmp">
+      <Filter>리소스 파일\bitmap</Filter>
+    </Image>
+    <Image Include="bitmap\playerRunR1.bmp">
+      <Filter>리소스 파일\bitmap</Filter>
+    </Image>
+    <Image Include="bitmap\playerRunR2.bmp">
+      <Filter>리소스 파일\bitmap</Filter>
+    </Image>
+    <Image Include="bitmap\playerRunR3.bmp">
+      <Filter>리소스 파일\bitmap</Filter>
+    </Image>
+    <Image Include="EscapeFromPoop.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="bitmap\poop.bmp">
+      <Filter>리소스 파일\bitmap</Filter>
+    </Image>
+    <Image Include="bitmap\playerdie.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="bitmap\startBG.bmp">
+      <Filter>리소스 파일\bitmap</Filter>
+    </Image>
+    <Image Include="bitmap\startButton.bmp">
+      <Filter>리소스 파일\bitmap</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="EscapeFromPoop.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

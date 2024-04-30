@@ -167,7 +167,7 @@ void ObjectManager::UpdatePlayer(bool* g_bIsGameOver)
 			gPlayer->Move((gPlayer->speed * TimeSystem::GetInstance()->GetDeltaTime()), 0);
 		}
 	}
-	else if (InputSystem::GetInstance()->IsKey(VK_RIGHT))
+	if (InputSystem::GetInstance()->IsKey(VK_RIGHT))
 	{
 		gPlayer->Move((gPlayer->speed * TimeSystem::GetInstance()->GetDeltaTime()), 0);
 		if (gPlayer->x >455)
@@ -178,11 +178,11 @@ void ObjectManager::UpdatePlayer(bool* g_bIsGameOver)
 
 	if (elapsedTime >= 150)
 	{
-		if (InputSystem::GetInstance()->IsKey(VK_LEFT))
+		if (InputSystem::GetInstance()->IsKey(VK_LEFT)&&!InputSystem::GetInstance()->IsKey(VK_RIGHT))
 		{
 			gPlayer->MoveL();
 		}
-		else if (InputSystem::GetInstance()->IsKey(VK_RIGHT))
+		else if (InputSystem::GetInstance()->IsKey(VK_RIGHT)&&!InputSystem::GetInstance()->IsKey(VK_LEFT))
 		{
 			gPlayer->MoveR();
 		}
@@ -199,6 +199,7 @@ void ObjectManager::UpdatePlayer(bool* g_bIsGameOver)
 		{
 			if (ColliderManager::GetInstance()->ColliderAWithB(gPlayer, gPoopArray[i], gPlayer->status, gPoopArray[i]->status))
 			{
+				Music::soundManager->PlayMusic(Music::eSoundList::death, Music::eSoundChannel::Effect);
 				gPlayer->status = 9;
 				*g_bIsGameOver = true;
 			}

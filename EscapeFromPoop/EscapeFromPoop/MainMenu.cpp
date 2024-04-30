@@ -9,7 +9,7 @@ void MainMenu::Update()
 {
 	if (CheckPressButton(&startButton))
 	{
-		SceneManager::GetInstance()->ChanageScene(SceneType::PLAY);
+		SceneManager::GetInstance()->ChanageScene(eSceneType::PLAY);
 	}
 }
 

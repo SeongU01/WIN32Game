@@ -6,6 +6,7 @@
 #include "ColliderManager.h"
 #include "SceneManager.h"
 #include "Object.h"
+#include "CSound.h"
 
 class ObjectManager
 {

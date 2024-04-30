@@ -7,7 +7,7 @@ SceneManager* SceneManager::instance = nullptr;
 
 SceneManager::SceneManager()
 {
-	for (int i = 0; i < 2; i++)
+	for (UINT i = 0; i <(UINT)eSceneType::END ; i++)
 	{
 		Scenes[i] = nullptr;
 	}
@@ -15,7 +15,7 @@ SceneManager::SceneManager()
 
 SceneManager::~SceneManager()
 {
-	for (int i = 0; i < 2; i++)
+	for (UINT i = 0; i < (UINT)eSceneType::END; i++)
 	{
 		delete Scenes[i];
 	}
@@ -53,10 +53,10 @@ void SceneManager::InitScene()
 	Scenes[1] = new PlayScene;
 
 
-	currScene = Scenes[(UINT)SceneType::MAINMANU];
+	currScene = Scenes[(UINT)eSceneType::MAINMANU];
 }
 
-void SceneManager::ChanageScene(SceneType sceneName)
+void SceneManager::ChanageScene(eSceneType sceneName)
 {
 	currScene = Scenes[(UINT)sceneName];
 }

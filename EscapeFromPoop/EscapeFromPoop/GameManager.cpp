@@ -2,13 +2,6 @@
 
 GameManager* GameManager::instance = nullptr;
 
-//bool g_bIsGameOver = false;
-//bool msgboxShow = true;
-//int g_Score = 0;
-//int g_HighScore = 0;
-//int g_Timer = 0;
-
-
 GameManager::GameManager()
 {
 }
@@ -24,6 +17,8 @@ void GameManager::Initialize()
 	RenderSystem::GetInstance()->InitRender();
 	ResourceManager::GetInstance()->InitResouce();
 	SceneManager::GetInstance()->InitScene();
+	Music::soundManager->InitMusic();
+	Music::soundManager->SetVolume(0.5f);
 }
 
 void GameManager::Update()
@@ -53,9 +48,6 @@ void GameManager::Render()
 	
 }
 
-#define _CRTDBG_MAP_ALLOC
-#include <stdlib.h>
-#include <crtdbg.h>
 
 void GameManager::Finalize()
 {
@@ -66,15 +58,15 @@ void GameManager::Finalize()
 	ResourceManager::GetInstance()->DestroyInstance();
 	ColliderManager::GetInstance()->DestroyInstance();
 	SceneManager::GetInstance()->DestroyInstance();
-	_CrtDumpMemoryLeaks();
-	_CrtSetDbgFlag(_CRTDBG_ALLOC_MEM_DF | _CRTDBG_LEAK_CHECK_DF);
+	Music::soundManager->DestroyInstance();
 }
 
 void GameManager::Run()
 {
+	MSG msg;
 	while (true)
 	{
-		MSG msg;
+		
 		if (PeekMessage(&msg, nullptr, 0, 0, PM_REMOVE))
 		{
 			if (msg.message == WM_QUIT)
@@ -107,13 +99,6 @@ void GameManager::Run()
 		
 	}
 }
-
-void GameManager::ResetGame()
-{
-	/*ObjectManager::GetInstance()->ResetObject();
-	msgboxShow = true;*/
-}
-
 
 
 GameManager* GameManager::GetInstance()

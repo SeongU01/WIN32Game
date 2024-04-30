@@ -5,6 +5,8 @@ class Scene
 {
 private:
 	const char* sceneName;
+protected:
+	bool isPlayMusic = false;
 public:
 	Scene() {}
 	~Scene(){}

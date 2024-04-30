@@ -2,7 +2,7 @@
 #include "Scene.h"
 
 
-enum class SceneType
+enum class eSceneType
 {
 	MAINMANU,
 	PLAY,
@@ -13,7 +13,7 @@ class SceneManager
 {
 private:
 	static SceneManager* instance;
-	Scene* Scenes[(UINT)SceneType::END];
+	Scene* Scenes[(UINT)eSceneType::END];
 	Scene* currScene=nullptr;
 	
 public:
@@ -27,6 +27,6 @@ public:
 
 	
 	void InitScene();
-	void ChanageScene(SceneType sceneName);
+	void ChanageScene(eSceneType sceneName);
 };
 

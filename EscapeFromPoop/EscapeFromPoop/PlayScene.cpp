@@ -1,4 +1,5 @@
 #include "PlayScene.h"
+#include "CSound.h"
 
 bool g_bIsGameOver = false;
 bool msgboxShow = true;
@@ -6,9 +7,15 @@ int g_Score = 0;
 int g_HighScore = 0;
 int g_Timer = 0;
 
-
 void PlayScene::Update()
 {
+	if (!isPlayMusic)//노래틀기
+	{
+		Music::soundManager->PlayMusic(Music::eSoundList::MainBGM, Music::eSoundChannel::BGM);
+		isPlayMusic = true;
+	}
+
+
 	if (!g_bIsGameOver)
 	{
 		ObjectManager::GetInstance()->UpdataeObject(&g_bIsGameOver,g_Score);
@@ -18,7 +25,9 @@ void PlayScene::Update()
 	{
 		if (msgboxShow)
 		{
-			InputSystem::GetInstance()->InitInput();
+			Music::soundManager->StopMusic(Music::eSoundChannel::BGM);//노래끄기
+			isPlayMusic = false;
+			InputSystem::GetInstance()->InitInput();//키 초기화
 			MessageBoxA(global::GetWinApp().GetWindow(), "죽었습니다. space bar를 누르면 재시작합니다.", "알림", MB_OK);
 			msgboxShow = false;
 		}
@@ -26,6 +35,7 @@ void PlayScene::Update()
 		if (InputSystem::GetInstance()->IsKeyDown(VK_SPACE))
 		{
 			g_bIsGameOver = false;
+			
 			ResetGame();
 		}
 

@@ -16,7 +16,7 @@ private:
 public:
 	MainMenu()
 	{
-		SceneManager::GetInstance()->ChanageScene(SceneType::MAINMANU);
+		SceneManager::GetInstance()->ChanageScene(eSceneType::MAINMANU);
 	}
 	~MainMenu() 
 	{

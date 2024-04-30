@@ -43,6 +43,9 @@
     <Filter Include="소스 파일\Object\ObjectManager">
       <UniqueIdentifier>{2c3d4b81-5b62-4a50-be3e-811a6f24b629}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Sound">
+      <UniqueIdentifier>{da4986c4-4511-4b67-b741-b4fd2266987b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -93,6 +96,9 @@
     <ClInclude Include="PlayScene.h">
       <Filter>소스 파일\Scene</Filter>
     </ClInclude>
+    <ClInclude Include="CSound.h">
+      <Filter>소스 파일\Sound</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="GameManager.cpp">
@@ -133,6 +139,9 @@
     </ClCompile>
     <ClCompile Include="PlayScene.cpp">
       <Filter>소스 파일\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="CSound.cpp">
+      <Filter>소스 파일\Sound</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

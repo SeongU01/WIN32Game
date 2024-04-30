@@ -6,7 +6,7 @@
 #include "ObjectManager.h"
 #include "ResourceManager.h"
 #include "ColliderManager.h"
-
+#include "CSound.h"
 class GameManager
 {
 private:
@@ -28,12 +28,9 @@ public:
 
 	void Run();
 
-	void ResetGame();
-
 	static GameManager* GetInstance();
 
 	static void DestroyInstatnce();
-
 
 };
 

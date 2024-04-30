@@ -1,21 +1,8 @@
-﻿  EscapeFromPoop.cpp
-  GameManager.cpp
-C:\Users\User\Desktop\진성우 미니프로젝트\EscapeFromPoop\EscapeFromPoop\GameManager.cpp(76,44): warning C4244: '인수': 'WPARAM'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Desktop\진성우 미니프로젝트\EscapeFromPoop\EscapeFromPoop\GameManager.cpp(81,42): warning C4244: '인수': 'WPARAM'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  CSound.cpp
-  ObjectManager.cpp
+﻿  ObjectManager.cpp
 C:\Users\User\Desktop\진성우 미니프로젝트\EscapeFromPoop\EscapeFromPoop\ObjectManager.cpp(41,75): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 C:\Users\User\Desktop\진성우 미니프로젝트\EscapeFromPoop\EscapeFromPoop\ObjectManager.cpp(41,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 C:\Users\User\Desktop\진성우 미니프로젝트\EscapeFromPoop\EscapeFromPoop\ObjectManager.cpp(44,61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 C:\Users\User\Desktop\진성우 미니프로젝트\EscapeFromPoop\EscapeFromPoop\ObjectManager.cpp(44,49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Desktop\진성우 미니프로젝트\EscapeFromPoop\EscapeFromPoop\ObjectManager.cpp(91,29): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Desktop\진성우 미니프로젝트\EscapeFromPoop\EscapeFromPoop\ObjectManager.cpp(92,37): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  PlayScene.cpp
-  ResourceManager.cpp
-  Scene.cpp
-  SceneManager.cpp
-  MainMenu.cpp
-C:\Users\User\Desktop\진성우 미니프로젝트\EscapeFromPoop\EscapeFromPoop\MainMenu.cpp(19,74): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Desktop\진성우 미니프로젝트\EscapeFromPoop\EscapeFromPoop\MainMenu.cpp(19,56): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  코드를 생성하고 있습니다...
+C:\Users\User\Desktop\진성우 미니프로젝트\EscapeFromPoop\EscapeFromPoop\ObjectManager.cpp(92,29): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\진성우 미니프로젝트\EscapeFromPoop\EscapeFromPoop\ObjectManager.cpp(93,37): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   EscapeFromPoop.vcxproj -> C:\Users\User\Desktop\진성우 미니프로젝트\EscapeFromPoop\x64\Debug\EscapeFromPoop.exe

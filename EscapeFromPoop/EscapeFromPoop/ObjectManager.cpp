@@ -59,6 +59,7 @@ void ObjectManager::ResetObject()
 {
 	ObjectManager::GetInstance()->ResetPlayer();
 	ObjectManager::GetInstance()->ResetPoop();
+	poopCreateInterval = 500;
 }
 
 

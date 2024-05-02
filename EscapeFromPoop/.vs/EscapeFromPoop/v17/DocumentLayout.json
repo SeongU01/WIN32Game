@@ -3,28 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\ObjectManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|solutionrelative:EscapeFromPoop\\ObjectManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\PlayScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|solutionrelative:EscapeFromPoop\\PlayScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\ObjectManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|solutionrelative:EscapeFromPoop\\ObjectManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\MainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|solutionrelative:EscapeFromPoop\\MainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|solutionrelative:EscapeFromPoop\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\CSound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|solutionrelative:EscapeFromPoop\\CSound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|solutionrelative:EscapeFromPoop\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\ObjectManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|solutionrelative:EscapeFromPoop\\ObjectManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|solutionrelative:EscapeFromPoop\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\CSound.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|solutionrelative:EscapeFromPoop\\CSound.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|solutionrelative:EscapeFromPoop\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\InputSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|solutionrelative:EscapeFromPoop\\InputSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\CSound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|solutionrelative:EscapeFromPoop\\CSound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\ObjectManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|solutionrelative:EscapeFromPoop\\ObjectManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\EscapeFromPoop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -35,16 +55,8 @@
       "RelativeMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|solutionrelative:EscapeFromPoop\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\CSound.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|solutionrelative:EscapeFromPoop\\CSound.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|solutionrelative:EscapeFromPoop\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|solutionrelative:EscapeFromPoop\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\ResourceManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -53,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|solutionrelative:EscapeFromPoop\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|solutionrelative:EscapeFromPoop\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFAA0DEB-2B50-4A31-B28E-6D31C6BF97E1}|EscapeFromPoop\\EscapeFromPoop.vcxproj|C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\ResourceManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -78,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 219,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,20 +94,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\MainMenu.cpp",
+              "RelativeDocumentMoniker": "EscapeFromPoop\\MainMenu.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\MainMenu.cpp",
+              "RelativeToolTip": "EscapeFromPoop\\MainMenu.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T08:21:36.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scene.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\Scene.cpp",
+              "RelativeDocumentMoniker": "EscapeFromPoop\\Scene.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\Scene.cpp",
+              "RelativeToolTip": "EscapeFromPoop\\Scene.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T08:21:33.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ObjectManager.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\ObjectManager.cpp",
               "RelativeDocumentMoniker": "EscapeFromPoop\\ObjectManager.cpp",
               "ToolTip": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\ObjectManager.cpp",
               "RelativeToolTip": "EscapeFromPoop\\ObjectManager.cpp",
-              "ViewState": "AQIAACoAAAAAAAAAAAAmwDkAAAAhAAAA",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAwMUAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-26T07:27:33.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Scene.h",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\Scene.h",
               "RelativeDocumentMoniker": "EscapeFromPoop\\Scene.h",
@@ -107,24 +141,25 @@
               "RelativeToolTip": "EscapeFromPoop\\Scene.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-26T05:39:30.324Z"
+              "WhenOpened": "2024-04-26T05:39:30.324Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PlayScene.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\PlayScene.cpp",
               "RelativeDocumentMoniker": "EscapeFromPoop\\PlayScene.cpp",
               "ToolTip": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\PlayScene.cpp",
               "RelativeToolTip": "EscapeFromPoop\\PlayScene.cpp",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE8AAAAmAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-26T03:46:16.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "InputSystem.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\InputSystem.cpp",
               "RelativeDocumentMoniker": "EscapeFromPoop\\InputSystem.cpp",
@@ -132,23 +167,25 @@
               "RelativeToolTip": "EscapeFromPoop\\InputSystem.cpp",
               "ViewState": "AQIAACwAAAAAAAAAAAAYwCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-26T03:46:06.953Z"
+              "WhenOpened": "2024-04-26T03:46:06.953Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "CSound.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\CSound.cpp",
               "RelativeDocumentMoniker": "EscapeFromPoop\\CSound.cpp",
               "ToolTip": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\CSound.cpp",
               "RelativeToolTip": "EscapeFromPoop\\CSound.cpp",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAD0AAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-26T02:25:39.671Z"
+              "WhenOpened": "2024-04-26T02:25:39.671Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "EscapeFromPoop.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\EscapeFromPoop.cpp",
               "RelativeDocumentMoniker": "EscapeFromPoop\\EscapeFromPoop.cpp",
@@ -160,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "ResourceManager.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\ResourceManager.cpp",
               "RelativeDocumentMoniker": "EscapeFromPoop\\ResourceManager.cpp",
@@ -172,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "GameManager.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\GameManager.cpp",
               "RelativeDocumentMoniker": "EscapeFromPoop\\GameManager.cpp",
@@ -184,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "SceneManager.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\SceneManager.cpp",
               "RelativeDocumentMoniker": "EscapeFromPoop\\SceneManager.cpp",
@@ -198,11 +235,11 @@
         },
         {
           "DockedWidth": 211,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "ObjectManager.h",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\ObjectManager.h",
               "RelativeDocumentMoniker": "EscapeFromPoop\\ObjectManager.h",
@@ -215,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "GameManager.h",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\GameManager.h",
               "RelativeDocumentMoniker": "EscapeFromPoop\\GameManager.h",
@@ -223,11 +260,12 @@
               "RelativeToolTip": "EscapeFromPoop\\GameManager.h",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-18T03:48:06.329Z"
+              "WhenOpened": "2024-04-18T03:48:06.329Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "CSound.h",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\CSound.h",
               "RelativeDocumentMoniker": "EscapeFromPoop\\CSound.h",
@@ -235,11 +273,12 @@
               "RelativeToolTip": "EscapeFromPoop\\CSound.h",
               "ViewState": "AQIAACEAAAAAAAAAAAAAADkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-26T02:24:11.726Z"
+              "WhenOpened": "2024-04-26T02:24:11.726Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "SceneManager.h",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\SceneManager.h",
               "RelativeDocumentMoniker": "EscapeFromPoop\\SceneManager.h",
@@ -247,11 +286,12 @@
               "RelativeToolTip": "EscapeFromPoop\\SceneManager.h",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-26T05:40:28.079Z"
+              "WhenOpened": "2024-04-26T05:40:28.079Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ResourceManager.h",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\ResourceManager.h",
               "RelativeDocumentMoniker": "EscapeFromPoop\\ResourceManager.h",
@@ -263,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "TimeSystem.h",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\TimeSystem.h",
               "RelativeDocumentMoniker": "EscapeFromPoop\\TimeSystem.h",
@@ -275,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Object.h",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\Object.h",
               "RelativeDocumentMoniker": "EscapeFromPoop\\Object.h",
@@ -287,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "InputSystem.h",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uC9C4\uC131\uC6B0 \uBBF8\uB2C8\uD504\uB85C\uC81D\uD2B8\\EscapeFromPoop\\EscapeFromPoop\\InputSystem.h",
               "RelativeDocumentMoniker": "EscapeFromPoop\\InputSystem.h",

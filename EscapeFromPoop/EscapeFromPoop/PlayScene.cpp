@@ -9,15 +9,13 @@ int g_Timer = 0;
 
 void PlayScene::Update()
 {
-	if (!isPlayMusic)//노래틀기
-	{
-		Music::soundManager->PlayMusic(Music::eSoundList::MainBGM, Music::eSoundChannel::BGM);
-		isPlayMusic = true;
-	}
-
-
 	if (!g_bIsGameOver)
 	{
+		if (!isPlayMusic)//노래틀기
+		{
+			Music::soundManager->PlayMusic(Music::eSoundList::MainBGM, Music::eSoundChannel::BGM);
+			isPlayMusic = true;
+		}
 		ObjectManager::GetInstance()->UpdataeObject(&g_bIsGameOver,g_Score);
 		UpdateTimer();
 	}
